@@ -1,0 +1,44 @@
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\bin\Debug\kredit_hp.exe
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\bin\Debug\kredit_hp.pdb
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\bin\Debug\kredit_hp.xml
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\obj\x86\Debug\kredit_hp.Resources.resources
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\obj\x86\Debug\kredit_hp.vbproj.GenerateResource.Cache
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\obj\x86\Debug\kredit_hp.exe
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\obj\x86\Debug\kredit_hp.xml
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\obj\x86\Debug\kredit_hp.pdb
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\obj\x86\Debug\kredit_hp.data_pelanggan.resources
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\obj\x86\Debug\kredit_hp.data_hp.resources
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\obj\x86\Debug\kredit_hp.data_persyaratan.resources
+E:\KULI-AH\Semester 3\PEMROGRAMAN VISUAL\Perpustakaan\KREDIT_HP\kredit_hp\kredit_hp\obj\x86\Debug\kredit_hp.kredit.resources
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.exe
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.xml
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.pdb
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\bin\Debug\kredit_hp.exe
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\bin\Debug\kredit_hp.pdb
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\bin\Debug\kredit_hp.xml
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.data_hp.resources
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.data_pelanggan.resources
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.data_persyaratan.resources
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.kredit.resources
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.Resources.resources
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.vbproj.GenerateResource.Cache
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.angsuran.resources
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.login.resources
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.menu_utama.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.exe
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.xml
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.pdb
+F:\Project\KREDIT_HP\kredit_hp\bin\Debug\kredit_hp.exe
+F:\Project\KREDIT_HP\kredit_hp\bin\Debug\kredit_hp.pdb
+F:\Project\KREDIT_HP\kredit_hp\bin\Debug\kredit_hp.xml
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.angsuran.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.data_hp.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.data_pelanggan.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.data_persyaratan.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.kredit.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.login.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.menu_utama.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.Resources.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.tunai.resources
+F:\Project\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.vbproj.GenerateResource.Cache
+D:\Pemrograman\Visual Basic\KREDIT_HP\kredit_hp\obj\x86\Debug\kredit_hp.tunai.resources
